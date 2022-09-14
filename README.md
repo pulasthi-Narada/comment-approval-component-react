@@ -1,3 +1,14 @@
+#Screenshott
+<img src="./public/img.png">
+
+# Used dependencies
+<ul>
+<li>React</li>
+<li>falso</li>
+<li>semantic-ui css library</li>
+</ul>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
